@@ -1,5 +1,5 @@
 ---
-title: Youtube
-emoji: 📺
-href: https://www.youtube.com/c/yoandevco
+title: Twitter
+emoji: 🐦
+href: https://x.com/aksioma
 ---

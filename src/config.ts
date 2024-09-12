@@ -1,8 +1,8 @@
-export const SUBTITLE = "A free clone of LinkTree"
-export const TITLE = "LinkTreeFreeClone"
-export const TAGLINE = "Make your own LinkTree page for free"
+//export const SUBTITLE = "AKSIOMATIK"
+export const TITLE = "AKSIOMATIK"
+export const TAGLINE = "JASA OLAH DATA STATISTIK"
 
 // Contacts
-export const contact = "Keep in touch"
-export const phone = "+33600000000"
-export const email = "contact@yoandev.co"
+export const contact = "Tetap Terhubung"
+export const phone = "+6281231274828"
+export const email = "arisdianto.mdn@gmail.com"
